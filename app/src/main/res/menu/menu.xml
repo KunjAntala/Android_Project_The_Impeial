@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/soup"
+        android:title="@string/soups" />
+
+    <item android:id="@+id/starter"
+        android:title="@string/starters" />
+
+    <item android:id="@+id/world_cuisine"
+        android:title="@string/world_cuisine" />
+
+    <item android:id="@+id/sizzler"
+        android:title="@string/sizzler" />
+
+    <item android:id="@+id/main_course"
+        android:title="@string/main_course" />
+
+    <item android:id="@+id/dal"
+        android:title="@string/dal_rice_biryani" />
+
+    <item android:id="@+id/roti"
+        android:title="@string/roti_naan_paratha" />
+
+    <item android:id="@+id/dessert"
+        android:title="@string/desserts" />
+
+    <item android:id="@+id/accompaniments"
+        android:title="@string/accompaniments" />
+
+</menu>
